@@ -1,0 +1,8 @@
+{
+  "titulo": "Curso de Node.js",
+  "descripcion": "Aprende a crear APIs REST con Node.js y MySQL",
+  "dia_Inicio": "2025-05-10",
+  "dia_finaliza": "2025-06-10",
+  "id_categoria": 1,
+  "id_profesor": 1
+}
