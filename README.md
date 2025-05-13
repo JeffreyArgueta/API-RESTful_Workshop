@@ -80,9 +80,6 @@ Este proyecto implementa JWT para la autenticación de usuarios y define reglas 
 ## 👨‍🏫 Créditos
 Taller presentado por **Jeffrey Argueta**, apasionado por el desarrollo backend, la escalabilidad y la enseñanza técnica. 🎓
 
-## 📜 Licencia
-Este proyecto está bajo la MIT License – ¡Siéntete libre de usarlo y mejorarlo!
-
 ## 🏆 Agradecimientos  
 Este proyecto no habría sido posible sin el apoyo y la colaboración de mis compañeros. Un enorme agradecimiento a:  
 
@@ -92,3 +89,6 @@ Este proyecto no habría sido posible sin el apoyo y la colaboración de mis com
 - **Carlos Chavarría** – Por su trabajo en optimización de rendimiento y estructuración de código.
 
 Gracias por ser parte de este proyecto y por su compromiso en crear una API REST sólida y bien estructurada. 🚀  
+
+## 📜 Licencia
+Este proyecto está bajo la MIT License – ¡Siéntete libre de usarlo y mejorarlo!
