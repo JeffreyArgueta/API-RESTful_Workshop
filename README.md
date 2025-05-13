@@ -91,4 +91,4 @@ Este proyecto no habría sido posible sin el apoyo y la colaboración de mis com
 - **Nayeli Guzmán** – Por compartir conocimientos y ayudar a refinar el contenido del taller.
 - **Carlos Chavarría** – Por su trabajo en optimización de rendimiento y estructuración de código.
 
-Gracias a todos por ser parte de este proyecto y por su compromiso en crear una API REST sólida y bien estructurada. 🚀  
+Gracias por ser parte de este proyecto y por su compromiso en crear una API REST sólida y bien estructurada. 🚀  
