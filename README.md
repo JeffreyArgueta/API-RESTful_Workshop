@@ -3,6 +3,9 @@
 
 ¡Bienvenido al repositorio del taller **"Construyendo una API REST con Node.js y MySQL"**! 🎯 Aquí aprenderás a desarrollar una API funcional desde cero, aplicando buenas prácticas de seguridad, optimización y modularidad.
 
+## ℹ️ Acerca de  
+Este repositorio contiene el material del taller **"Construyendo una API REST con Node.js y MySQL"**, enfocado en desarrollo backend, seguridad y optimización de rendimiento. 🚀
+
 ## 📌 Objetivos del Taller  
 En este workshop, los participantes aprenderán a:  
 - Configurar un entorno de desarrollo backend con **Node.js** y **MySQL**.  
