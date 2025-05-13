@@ -1,0 +1,54 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json*
+
+# Directorios de dependencias
+/.pnp
+.pnp.js
+package-lock.json
+
+# Archivos de entorno
+#.env
+#.env.local
+#.env.development.local
+#.env.test.local
+#.env.production.local
+
+# Directorios de compilación
+/dist
+/build
+/.turbo
+
+# Archivos de logs
+logs
+*.log
+logs/*
+
+# Archivos de bases de datos locales
+*.sqlite
+*.sqlite-journal
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Cachés y archivos temporales
+/.cache
+/tmp
+/out
+
+# Configuración de herramientas
+/.eslintcache
+/.prettier*
+
+# Configuración de editores de código
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
